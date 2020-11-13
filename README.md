@@ -216,3 +216,35 @@ Continue researching front-end options (Vue, React, Angular)
 Server: http://ec2-54-193-9-226.us-west-1.compute.amazonaws.com:8080/
 
 
+
+# 11/13 Daily Scrum
+At 6pm our Development had the Daily Scrum.
+To start, we generally discussed the tasks and what approach we will to take.
+
+## Past 24 Hours
+Alex - Looked at QR Code API options. Considered Agile and Daily Scrum Approaches. Mob Programming for PBI #1.
+Manav - Looked at different frontend options and frameworks. Considered login approaches (cookies, jwt w/Spring). Mob Programming for PBI #1.
+Juan - Worked on HTML and Markup for Home Page (for PBI #1). Considered design and marketing ideas (logo). Mob Programming for PBI #1.
+Prashant - Discussed Spring Application approaches with Anup. Considered test-case approaches. 
+Anup - Worked on spring/Boot Application for PBI #1. Worked on Test Cases. Mob Programming for PBI #1.
+
+## Next 24 Hours
+Anup - Will continue working on test cases for PBI #1.
+Prashant - Will add the updated PBI's to Jira and will work on test cases.
+Juan - Will complete the home page and template for login/signup and QR. 
+Manav - Will work on the QR Code and research front-end approaches.
+Alex - Will take a look at the code and research QR Code approaches. Will Send a gmail invite for our next meeting.
+
+## Impediments
+Schedule : Sunday Evening does not work for everyone. We rescheduled our meeting. 
+
+## Other
+We changed our scheduled meeting to Sunday from 2-4pm.
+
+
+
+
+
+
+
+
